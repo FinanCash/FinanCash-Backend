@@ -1,0 +1,96 @@
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\bin\Debug\net7.0\C Data.deps.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\bin\Debug\net7.0\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\bin\Debug\net7.0\C Data.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\obj\Debug\net7.0\C Data.csproj.AssemblyReference.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\obj\Debug\net7.0\C Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\obj\Debug\net7.0\C Data.AssemblyInfoInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\obj\Debug\net7.0\C Data.AssemblyInfo.cs
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\obj\Debug\net7.0\C Data.csproj.CoreCompileInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\obj\Debug\net7.0\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\obj\Debug\net7.0\refint\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\obj\Debug\net7.0\C Data.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\C Data\obj\Debug\net7.0\ref\C Data.dll
+C:\GithubProjects\Backend\C Data\bin\Debug\net7.0\C Data.deps.json
+C:\GithubProjects\Backend\C Data\bin\Debug\net7.0\C Data.dll
+C:\GithubProjects\Backend\C Data\bin\Debug\net7.0\C Data.pdb
+C:\GithubProjects\Backend\C Data\obj\Debug\net7.0\C Data.csproj.AssemblyReference.cache
+C:\GithubProjects\Backend\C Data\obj\Debug\net7.0\C Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubProjects\Backend\C Data\obj\Debug\net7.0\C Data.AssemblyInfoInputs.cache
+C:\GithubProjects\Backend\C Data\obj\Debug\net7.0\C Data.AssemblyInfo.cs
+C:\GithubProjects\Backend\C Data\obj\Debug\net7.0\C Data.csproj.CoreCompileInputs.cache
+C:\GithubProjects\Backend\C Data\obj\Debug\net7.0\C Data.dll
+C:\GithubProjects\Backend\C Data\obj\Debug\net7.0\refint\C Data.dll
+C:\GithubProjects\Backend\C Data\obj\Debug\net7.0\C Data.pdb
+C:\GithubProjects\Backend\C Data\obj\Debug\net7.0\ref\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\bin\Debug\net7.0\C Data.deps.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\bin\Debug\net7.0\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\bin\Debug\net7.0\C Data.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\obj\Debug\net7.0\C Data.csproj.AssemblyReference.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\obj\Debug\net7.0\C Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\obj\Debug\net7.0\C Data.AssemblyInfoInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\obj\Debug\net7.0\C Data.AssemblyInfo.cs
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\obj\Debug\net7.0\C Data.csproj.CoreCompileInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\obj\Debug\net7.0\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\obj\Debug\net7.0\refint\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\obj\Debug\net7.0\C Data.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\C Data\obj\Debug\net7.0\ref\C Data.dll
+C:\Development\UPC\AppsWeb\Backend\C Data\bin\Debug\net7.0\C Data.deps.json
+C:\Development\UPC\AppsWeb\Backend\C Data\bin\Debug\net7.0\C Data.dll
+C:\Development\UPC\AppsWeb\Backend\C Data\bin\Debug\net7.0\C Data.pdb
+C:\Development\UPC\AppsWeb\Backend\C Data\obj\Debug\net7.0\C Data.csproj.AssemblyReference.cache
+C:\Development\UPC\AppsWeb\Backend\C Data\obj\Debug\net7.0\C Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\UPC\AppsWeb\Backend\C Data\obj\Debug\net7.0\C Data.AssemblyInfoInputs.cache
+C:\Development\UPC\AppsWeb\Backend\C Data\obj\Debug\net7.0\C Data.AssemblyInfo.cs
+C:\Development\UPC\AppsWeb\Backend\C Data\obj\Debug\net7.0\C Data.csproj.CoreCompileInputs.cache
+C:\Development\UPC\AppsWeb\Backend\C Data\obj\Debug\net7.0\C Data.dll
+C:\Development\UPC\AppsWeb\Backend\C Data\obj\Debug\net7.0\refint\C Data.dll
+C:\Development\UPC\AppsWeb\Backend\C Data\obj\Debug\net7.0\C Data.pdb
+C:\Development\UPC\AppsWeb\Backend\C Data\obj\Debug\net7.0\ref\C Data.dll
+C:\Users\RICARDO\Desktop\Backend\C Data\bin\Debug\net7.0\C Data.deps.json
+C:\Users\RICARDO\Desktop\Backend\C Data\bin\Debug\net7.0\C Data.dll
+C:\Users\RICARDO\Desktop\Backend\C Data\bin\Debug\net7.0\C Data.pdb
+C:\Users\RICARDO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.csproj.AssemblyReference.cache
+C:\Users\RICARDO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.AssemblyInfoInputs.cache
+C:\Users\RICARDO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.AssemblyInfo.cs
+C:\Users\RICARDO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.dll
+C:\Users\RICARDO\Desktop\Backend\C Data\obj\Debug\net7.0\refint\C Data.dll
+C:\Users\RICARDO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.pdb
+C:\Users\RICARDO\Desktop\Backend\C Data\obj\Debug\net7.0\ref\C Data.dll
+C:\Users\CARLIÑO\Desktop\Backend\C Data\bin\Debug\net7.0\C Data.deps.json
+C:\Users\CARLIÑO\Desktop\Backend\C Data\bin\Debug\net7.0\C Data.dll
+C:\Users\CARLIÑO\Desktop\Backend\C Data\bin\Debug\net7.0\C Data.pdb
+C:\Users\CARLIÑO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.csproj.AssemblyReference.cache
+C:\Users\CARLIÑO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLIÑO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.AssemblyInfoInputs.cache
+C:\Users\CARLIÑO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.AssemblyInfo.cs
+C:\Users\CARLIÑO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.csproj.CoreCompileInputs.cache
+C:\Users\CARLIÑO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.dll
+C:\Users\CARLIÑO\Desktop\Backend\C Data\obj\Debug\net7.0\refint\C Data.dll
+C:\Users\CARLIÑO\Desktop\Backend\C Data\obj\Debug\net7.0\C Data.pdb
+C:\Users\CARLIÑO\Desktop\Backend\C Data\obj\Debug\net7.0\ref\C Data.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\bin\Debug\net7.0\C Data.deps.json
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\bin\Debug\net7.0\C Data.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\bin\Debug\net7.0\C Data.pdb
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\obj\Debug\net7.0\C Data.csproj.AssemblyReference.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\obj\Debug\net7.0\C Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\obj\Debug\net7.0\C Data.AssemblyInfoInputs.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\obj\Debug\net7.0\C Data.AssemblyInfo.cs
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\obj\Debug\net7.0\C Data.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\obj\Debug\net7.0\C Data.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\obj\Debug\net7.0\refint\C Data.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\obj\Debug\net7.0\C Data.pdb
+C:\Users\JORGE\Downloads\PC2_u202120471\C Data\obj\Debug\net7.0\ref\C Data.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\bin\Debug\net7.0\C Data.deps.json
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\bin\Debug\net7.0\C Data.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\bin\Debug\net7.0\C Data.pdb
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\obj\Debug\net7.0\C Data.csproj.AssemblyReference.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\obj\Debug\net7.0\C Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\obj\Debug\net7.0\C Data.AssemblyInfoInputs.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\obj\Debug\net7.0\C Data.AssemblyInfo.cs
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\obj\Debug\net7.0\C Data.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\obj\Debug\net7.0\C Data.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\obj\Debug\net7.0\refint\C Data.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\obj\Debug\net7.0\C Data.pdb
+C:\Users\JORGE\Downloads\FinanzasBackend\C Data\obj\Debug\net7.0\ref\C Data.dll

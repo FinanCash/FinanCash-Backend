@@ -1,0 +1,1717 @@
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\appsettings.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\A Api.exe
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\A Api.deps.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\A Api.runtimeconfig.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\A Api.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\A Api.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\B Domain.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\C Data.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\B Domain.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.csproj.AssemblyReference.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.AssemblyInfoInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.AssemblyInfo.cs
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.csproj.CoreCompileInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\staticwebassets\msbuild.A Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\staticwebassets\msbuild.build.A Api.props
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.A Api.props
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.A Api.props
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\scopedcss\bundle\A Api.styles.css
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.csproj.CopyComplete
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\refint\A Api.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\A Api.genruntimeconfig.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\obj\Debug\net7.0\ref\A Api.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\A Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\appsettings.Development.json
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\appsettings.json
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\A Api.exe
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\A Api.deps.json
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\A Api.runtimeconfig.json
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\A Api.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\A Api.pdb
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\AutoMapper.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\MySqlConnector.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\B Domain.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\C Data.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\C Data.pdb
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\B Domain.pdb
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.csproj.AssemblyReference.cache
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.AssemblyInfoInputs.cache
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.AssemblyInfo.cs
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.csproj.CoreCompileInputs.cache
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cs
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cache
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.A Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.build.A Api.props
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.A Api.props
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.A Api.props
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\scopedcss\bundle\A Api.styles.css
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.csproj.CopyComplete
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.dll
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\refint\A Api.dll
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.pdb
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\A Api.genruntimeconfig.cache
+C:\GithubProjects\Backend\A Api\obj\Debug\net7.0\ref\A Api.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Humanizer.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.Build.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\NuGet.Common.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GithubProjects\Backend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\appsettings.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\A Api.exe
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\A Api.deps.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\A Api.runtimeconfig.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\A Api.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\A Api.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\B Domain.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\C Data.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\bin\Debug\net7.0\B Domain.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.csproj.AssemblyReference.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.AssemblyInfoInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.AssemblyInfo.cs
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.csproj.CoreCompileInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.A Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.build.A Api.props
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.A Api.props
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.A Api.props
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\scopedcss\bundle\A Api.styles.css
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.csproj.CopyComplete
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\refint\A Api.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\A Api.genruntimeconfig.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\A Api\obj\Debug\net7.0\ref\A Api.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\appsettings.json
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\A Api.exe
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\A Api.deps.json
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\A Api.runtimeconfig.json
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\A Api.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\A Api.pdb
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Humanizer.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\MySqlConnector.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\NuGet.Common.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\B Domain.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\C Data.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\C Data.pdb
+C:\Development\UPC\AppsWeb\Backend\A Api\bin\Debug\net7.0\B Domain.pdb
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.csproj.AssemblyReference.cache
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.AssemblyInfoInputs.cache
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.AssemblyInfo.cs
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.csproj.CoreCompileInputs.cache
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.A Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.build.A Api.props
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.A Api.props
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.A Api.props
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\scopedcss\bundle\A Api.styles.css
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.csproj.CopyComplete
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\refint\A Api.dll
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.pdb
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\A Api.genruntimeconfig.cache
+C:\Development\UPC\AppsWeb\Backend\A Api\obj\Debug\net7.0\ref\A Api.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\appsettings.json
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\A Api.exe
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\A Api.deps.json
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\A Api.runtimeconfig.json
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\A Api.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\A Api.pdb
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\B Domain.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\C Data.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\C Data.pdb
+C:\Users\RICARDO\Desktop\Backend\A Api\bin\Debug\net7.0\B Domain.pdb
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.csproj.AssemblyReference.cache
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.AssemblyInfoInputs.cache
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.AssemblyInfo.cs
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.A Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.build.A Api.props
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.A Api.props
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.A Api.props
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\scopedcss\bundle\A Api.styles.css
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.csproj.CopyComplete
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\refint\A Api.dll
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.pdb
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.genruntimeconfig.cache
+C:\Users\RICARDO\Desktop\Backend\A Api\obj\Debug\net7.0\ref\A Api.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\appsettings.json
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\A Api.exe
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\A Api.deps.json
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\A Api.runtimeconfig.json
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\A Api.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\A Api.pdb
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\B Domain.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\C Data.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\C Data.pdb
+C:\Users\CARLIÑO\Desktop\Backend\A Api\bin\Debug\net7.0\B Domain.pdb
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.csproj.AssemblyReference.cache
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.AssemblyInfoInputs.cache
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.AssemblyInfo.cs
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.csproj.CoreCompileInputs.cache
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.A Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.build.A Api.props
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.A Api.props
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.A Api.props
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\scopedcss\bundle\A Api.styles.css
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.csproj.CopyComplete
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\refint\A Api.dll
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.pdb
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\A Api.genruntimeconfig.cache
+C:\Users\CARLIÑO\Desktop\Backend\A Api\obj\Debug\net7.0\ref\A Api.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\appsettings.json
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\A Api.exe
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\A Api.deps.json
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\A Api.runtimeconfig.json
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\A Api.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\A Api.pdb
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\B Domain.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\C Data.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\C Data.pdb
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\B Domain.pdb
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.csproj.AssemblyReference.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.AssemblyInfoInputs.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.AssemblyInfo.cs
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\staticwebassets\msbuild.A Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\staticwebassets\msbuild.build.A Api.props
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.A Api.props
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.A Api.props
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\scopedcss\bundle\A Api.styles.css
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\refint\A Api.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.pdb
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.genruntimeconfig.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\ref\A Api.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\bin\Debug\net7.0\A Api.xml
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.xml
+C:\Users\JORGE\Downloads\PC2_u202120471\A Api\obj\Debug\net7.0\A Api.csproj.Up2Date
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\appsettings.json
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\A Api.exe
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\A Api.deps.json
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\A Api.runtimeconfig.json
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\A Api.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\A Api.pdb
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\A Api.xml
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\B Domain.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\C Data.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\C Data.pdb
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\B Domain.pdb
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.csproj.AssemblyReference.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.AssemblyInfoInputs.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.AssemblyInfo.cs
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.A Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.build.A Api.props
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.A Api.props
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.A Api.props
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\scopedcss\bundle\A Api.styles.css
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.csproj.Up2Date
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\refint\A Api.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.xml
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.pdb
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\A Api.genruntimeconfig.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\obj\Debug\net7.0\ref\A Api.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.ApplicationInsights.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.AI.DependencyCollector.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.AI.EventCounterCollector.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.AI.WindowsServer.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\A Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll

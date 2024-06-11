@@ -1,0 +1,120 @@
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\bin\Debug\net7.0\B Domain.deps.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\bin\Debug\net7.0\B Domain.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\bin\Debug\net7.0\B Domain.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\bin\Debug\net7.0\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\bin\Debug\net7.0\C Data.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\obj\Debug\net7.0\B Domain.csproj.AssemblyReference.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\obj\Debug\net7.0\B Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfoInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfo.cs
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\obj\Debug\net7.0\B Domain.csproj.CoreCompileInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\obj\Debug\net7.0\B Domain.csproj.CopyComplete
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\obj\Debug\net7.0\B Domain.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\obj\Debug\net7.0\refint\B Domain.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\obj\Debug\net7.0\B Domain.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend proyecto\Unique Trip -Backend\UniqueTrip\B Domain\obj\Debug\net7.0\ref\B Domain.dll
+C:\GithubProjects\Backend\B Domain\bin\Debug\net7.0\B Domain.deps.json
+C:\GithubProjects\Backend\B Domain\bin\Debug\net7.0\B Domain.dll
+C:\GithubProjects\Backend\B Domain\bin\Debug\net7.0\B Domain.pdb
+C:\GithubProjects\Backend\B Domain\bin\Debug\net7.0\C Data.dll
+C:\GithubProjects\Backend\B Domain\bin\Debug\net7.0\C Data.pdb
+C:\GithubProjects\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.AssemblyReference.cache
+C:\GithubProjects\Backend\B Domain\obj\Debug\net7.0\B Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubProjects\Backend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfoInputs.cache
+C:\GithubProjects\Backend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfo.cs
+C:\GithubProjects\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.CoreCompileInputs.cache
+C:\GithubProjects\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.CopyComplete
+C:\GithubProjects\Backend\B Domain\obj\Debug\net7.0\B Domain.dll
+C:\GithubProjects\Backend\B Domain\obj\Debug\net7.0\refint\B Domain.dll
+C:\GithubProjects\Backend\B Domain\obj\Debug\net7.0\B Domain.pdb
+C:\GithubProjects\Backend\B Domain\obj\Debug\net7.0\ref\B Domain.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\bin\Debug\net7.0\B Domain.deps.json
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\bin\Debug\net7.0\B Domain.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\bin\Debug\net7.0\B Domain.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\bin\Debug\net7.0\C Data.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\bin\Debug\net7.0\C Data.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.AssemblyReference.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\obj\Debug\net7.0\B Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfoInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfo.cs
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.CoreCompileInputs.cache
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.CopyComplete
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\obj\Debug\net7.0\B Domain.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\obj\Debug\net7.0\refint\B Domain.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\obj\Debug\net7.0\B Domain.pdb
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Aplicaciones web\Backend github\Backend\B Domain\obj\Debug\net7.0\ref\B Domain.dll
+C:\Development\UPC\AppsWeb\Backend\B Domain\bin\Debug\net7.0\B Domain.deps.json
+C:\Development\UPC\AppsWeb\Backend\B Domain\bin\Debug\net7.0\B Domain.dll
+C:\Development\UPC\AppsWeb\Backend\B Domain\bin\Debug\net7.0\B Domain.pdb
+C:\Development\UPC\AppsWeb\Backend\B Domain\bin\Debug\net7.0\C Data.dll
+C:\Development\UPC\AppsWeb\Backend\B Domain\bin\Debug\net7.0\C Data.pdb
+C:\Development\UPC\AppsWeb\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.AssemblyReference.cache
+C:\Development\UPC\AppsWeb\Backend\B Domain\obj\Debug\net7.0\B Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\UPC\AppsWeb\Backend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfoInputs.cache
+C:\Development\UPC\AppsWeb\Backend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfo.cs
+C:\Development\UPC\AppsWeb\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.CoreCompileInputs.cache
+C:\Development\UPC\AppsWeb\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.CopyComplete
+C:\Development\UPC\AppsWeb\Backend\B Domain\obj\Debug\net7.0\B Domain.dll
+C:\Development\UPC\AppsWeb\Backend\B Domain\obj\Debug\net7.0\refint\B Domain.dll
+C:\Development\UPC\AppsWeb\Backend\B Domain\obj\Debug\net7.0\B Domain.pdb
+C:\Development\UPC\AppsWeb\Backend\B Domain\obj\Debug\net7.0\ref\B Domain.dll
+C:\Users\RICARDO\Desktop\Backend\B Domain\bin\Debug\net7.0\B Domain.deps.json
+C:\Users\RICARDO\Desktop\Backend\B Domain\bin\Debug\net7.0\B Domain.dll
+C:\Users\RICARDO\Desktop\Backend\B Domain\bin\Debug\net7.0\B Domain.pdb
+C:\Users\RICARDO\Desktop\Backend\B Domain\bin\Debug\net7.0\C Data.dll
+C:\Users\RICARDO\Desktop\Backend\B Domain\bin\Debug\net7.0\C Data.pdb
+C:\Users\RICARDO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.AssemblyReference.cache
+C:\Users\RICARDO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfoInputs.cache
+C:\Users\RICARDO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfo.cs
+C:\Users\RICARDO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.CopyComplete
+C:\Users\RICARDO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.dll
+C:\Users\RICARDO\Desktop\Backend\B Domain\obj\Debug\net7.0\refint\B Domain.dll
+C:\Users\RICARDO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.pdb
+C:\Users\RICARDO\Desktop\Backend\B Domain\obj\Debug\net7.0\ref\B Domain.dll
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\bin\Debug\net7.0\B Domain.deps.json
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\bin\Debug\net7.0\B Domain.dll
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\bin\Debug\net7.0\B Domain.pdb
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\bin\Debug\net7.0\C Data.dll
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\bin\Debug\net7.0\C Data.pdb
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.AssemblyReference.cache
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfoInputs.cache
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfo.cs
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.CoreCompileInputs.cache
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.csproj.CopyComplete
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.dll
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\obj\Debug\net7.0\refint\B Domain.dll
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\obj\Debug\net7.0\B Domain.pdb
+C:\Users\CARLIÑO\Desktop\Backend\B Domain\obj\Debug\net7.0\ref\B Domain.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\bin\Debug\net7.0\B Domain.deps.json
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\bin\Debug\net7.0\B Domain.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\bin\Debug\net7.0\B Domain.pdb
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\bin\Debug\net7.0\C Data.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\bin\Debug\net7.0\C Data.pdb
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\obj\Debug\net7.0\B Domain.csproj.AssemblyReference.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\obj\Debug\net7.0\B Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfoInputs.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfo.cs
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\obj\Debug\net7.0\B Domain.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\obj\Debug\net7.0\B Domain.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\obj\Debug\net7.0\refint\B Domain.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\obj\Debug\net7.0\B Domain.pdb
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\obj\Debug\net7.0\ref\B Domain.dll
+C:\Users\JORGE\Downloads\PC2_u202120471\B Domain\obj\Debug\net7.0\B Domain.csproj.Up2Date
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\bin\Debug\net7.0\B Domain.deps.json
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\bin\Debug\net7.0\B Domain.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\bin\Debug\net7.0\B Domain.pdb
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\bin\Debug\net7.0\C Data.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\bin\Debug\net7.0\C Data.pdb
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\obj\Debug\net7.0\B Domain.csproj.AssemblyReference.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\obj\Debug\net7.0\B Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfoInputs.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\obj\Debug\net7.0\B Domain.AssemblyInfo.cs
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\obj\Debug\net7.0\B Domain.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\obj\Debug\net7.0\B Domain.csproj.Up2Date
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\obj\Debug\net7.0\B Domain.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\obj\Debug\net7.0\refint\B Domain.dll
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\obj\Debug\net7.0\B Domain.pdb
+C:\Users\JORGE\Downloads\FinanzasBackend\B Domain\obj\Debug\net7.0\ref\B Domain.dll
